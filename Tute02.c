@@ -36,5 +36,7 @@ int main() {
 		amount = 30 * 50 + (dist - 30) * 40; //calculate
 		printf("Amount to be paid : %.2f", amount); //printf amount
 	}
+  
+  return 0;
 	
 }
